@@ -20,5 +20,3 @@ Este proyecto analiza un dataset de películas (TMDB/IMDb) para explorar los gé
 - Las calificaciones se concentran entre 6 y 8 puntos.  
 
 ## Visualizaciones
-Ejemplo de gráfico:  
-![Histograma de calificaciones](images/histograma.png)
